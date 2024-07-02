@@ -23,7 +23,7 @@ st.write("")  # Add a gap
            
 with st.expander("Why I'm the Perfect Blend ☕🍪"):
     st.divider()  # Add a divider
-    st.write("To demonstrate this I have prepared a little analysis where we will look at the this year's performance and some social media recommendation and then possible recommendations.")
+    st.write("Let's look at the this year's performance and a few social media recommendation and then possible recommendations.")
 
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Stores", "421")
