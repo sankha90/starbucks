@@ -56,8 +56,8 @@ with st.expander("Why I'm the Perfect Blend ☕🍪"):
              On twitter the engegemt is low as well , on top of that they have been at the forefront of controversies with ads like It starts with your name. \
              Now the ad is not there but the internet never forgets and an analysis of the youtube comments shows that :"
              )
-    st.image('D:/starbucks/images/output.png', caption='Trend of sentiment on youtube over time')
-    st.image('D:/starbucks/images/sentiment.png', caption='sentiment on youtube')
+    st.image('images/output.png', caption='Trend of sentiment on youtube over time')
+    st.image('images/sentiment.png', caption='sentiment on youtube')
 
     st.success('Few recommendations', icon="💡")
     st.write("Improve advertising: Invest in advertising on popular platforms like Meta and Instagram to attract younger customers")
